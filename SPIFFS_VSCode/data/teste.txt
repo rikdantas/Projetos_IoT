@@ -1,0 +1,4 @@
+{
+    "ssid": "NPITI-IoT",
+    "password": "NPITI-IoT"
+}
