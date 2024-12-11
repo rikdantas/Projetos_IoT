@@ -1,0 +1,11 @@
+
+[
+    {
+        "id_cartao": " 44 10 16 c9",
+        "nome": "Paulo Ricarduuu"
+    },
+    {
+        "id_cartao": "01 2d 3d 4e",
+        "nome": "Lil Vinicinhus"
+    }
+]
